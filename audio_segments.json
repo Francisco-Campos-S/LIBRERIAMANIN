@@ -1,0 +1,34 @@
+{
+  "title": {
+    "file": "audio_title.mp3",
+    "duration": 6.216
+  },
+  "intro_func": {
+    "file": "audio_intro_func.mp3",
+    "duration": 6.24
+  },
+  "riemann_4": {
+    "file": "audio_riemann_4.mp3",
+    "duration": 7.944
+  },
+  "riemann_8": {
+    "file": "audio_riemann_8.mp3",
+    "duration": 4.872
+  },
+  "limit": {
+    "file": "audio_limit.mp3",
+    "duration": 6.624
+  },
+  "integral": {
+    "file": "audio_integral.mp3",
+    "duration": 10.512
+  },
+  "explanation": {
+    "file": "audio_explanation.mp3",
+    "duration": 9.264
+  },
+  "bye": {
+    "file": "audio_bye.mp3",
+    "duration": 4.728
+  }
+}
